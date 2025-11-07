@@ -18,7 +18,8 @@ Sumber: Kaggle / NIST EMNIST dataset
 
 ⚠️ File dataset tidak disertakan di repository karena ukurannya melebihi batas GitHub (100 MB).
 Unduh secara manual dari https://www.kaggle.com/datasets/crawford/emnist
-<img width="1317" height="333" alt="image" src="https://github.com/user-attachments/assets/546b652d-aafb-43b8-a4ab-b31cb5240254" />
+<img width="1500" height="547" alt="image" src="https://github.com/user-attachments/assets/e5dedbe0-cc26-4687-aa35-d53d401e459d" />
+
 
 lalu letakkan di direktori proyek sebelum menjalankan kode.
 
