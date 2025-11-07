@@ -21,6 +21,7 @@ Unduh secara manual dari https://www.kaggle.com/datasets/crawford/emnist
 <img width="1500" height="547" alt="image" src="https://github.com/user-attachments/assets/e5dedbe0-cc26-4687-aa35-d53d401e459d" />
 
 
-lalu letakkan di direktori proyek sebelum menjalankan kode.
+Extrak file dataset kemudian ambil emnist-letters-train.csv lalu letakkan di direktori proyek sebelum menjalankan kode.
 
-<img width="661" height="128" alt="image" src="https://github.com/user-attachments/assets/4d6816ff-01e8-49ce-99e0-441af9db0cb5" />
+<img width="711" height="90" alt="image" src="https://github.com/user-attachments/assets/828d8c30-8dba-4af1-b4d1-12692b7d19e1" />
+
